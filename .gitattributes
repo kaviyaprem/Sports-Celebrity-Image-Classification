@@ -1,1 +1,3 @@
 Dataset_Celebrities filter=lfs diff=lfs merge=lfs -text
+cropped filter=lfs diff=lfs merge=lfs -text
+C:/Users/LENOVO/Desktop/Practical[[:space:]]Assignment/cropped filter=lfs diff=lfs merge=lfs -text
